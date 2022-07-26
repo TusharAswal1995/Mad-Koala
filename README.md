@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mad-Koala
-- 👀 I’m interested in mobile development & have 3.5+ years experience in working with React Native, Android & Ios applications.
+- 👀 I’m interested in mobile development & have 5+ years experience in working with React Native, Android & Ios applications.
 - 🌱 I’m currently learning Flutter & Dart.
 - 💞️ I’m looking to collaborate on React Native, Flutter, Dart.
 - 📫 How to reach me koalainnocent@gmail.com
